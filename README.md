@@ -1,19 +1,17 @@
-# <Título del proyecto> - <Año>
-< Todo lo que esté entre llaves debe ser editado por ustedes y posteriormente eliminado>
+# Mantine - 2024
 
 < Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
 
 ### Historia del Battlebot
-< Contar la historia de vida de su battlebot.>
+En un futuro distante, los océanos son el último refugio de vida y hogar de Raya, una mantarraya robótica, y su fiel compañero Mantis, un camarón mantis con un potente flipper. Unidos, luchan no por control o conquista, sino para defender lo suyo: la vida y el equilibrio del mar. Enfrentándose a equipos rivales que buscan expandir sus territorios a costa de la biodiversidad, protegen cada rincón del océano con astucia y una amistad forjada en la batalla.
   
 ![Robot Ejemplo](/multimedia/robot_ejemplo.png)
 
 ## Integrantes
-- <Integrante 1> - < Facultad>
-- <Integrante 2> - < Facultad>
-- <Integrante 3> - < Facultad>
-- <Integrante 4> - < Facultad>
-
+- Constanza Torres - Facultad de Ciencias Físicas y Matemáticas
+- Antonia Salazar - Facultad de Ciencias Físicas y Matemáticas
+- Beatriz Toledo - Facultad de Ciencias Físicas y Matemáticas
+- Benjamin Sanchez - Facultad de Ciencias Físicas y Matemáticas
 
 ## Descripción del proyecto
   
