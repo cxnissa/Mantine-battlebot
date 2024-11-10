@@ -24,7 +24,8 @@ En un futuro distante, los océanos son el último refugio de vida y hogar de Ra
 < La defensa del robot es bastante sencilla, consta de la ya mencionada cola, en conjunto con un revestimiento de alucom en forma de mantarraya, el cual cubre todo el robot menos el arma. Donde tambien es importante mencionar la capacidad de cambiar velocidades que introdujimos al bot, lo cual le permite ser mas impredecible en sus movimientos.>
 
 ### Diagrama funcional
-< Diagrama de bloques general de funcionamiento. Se sugiere un esquema de sistemas, completo.>
+![Diagrama de cajas](https://github.com/user-attachments/assets/9af6ea9b-1368-43e0-85a9-ce0dc759f83f)
+
 
 ## Licencia
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licencia Creative Commons Atribución-NoComercial 4.0 Internacional</a>.
