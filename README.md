@@ -1,6 +1,6 @@
 # Mantine - 2024
 
-< Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
+< Insertar imagen una vez terminado el robot>
 
 ### Historia del Battlebot
 En un futuro distante, los océanos son el último refugio de vida y hogar de Raya, una mantarraya robótica, y su fiel compañero Mantis, un camarón mantis con un potente flipper. Unidos, luchan no por control o conquista, sino para defender lo suyo: la vida y el equilibrio del mar. Enfrentándose a equipos rivales que buscan expandir sus territorios a costa de la biodiversidad, protegen cada rincón del océano con astucia y una amistad forjada en la batalla.
