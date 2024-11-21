@@ -1,9 +1,9 @@
 # Mantine - 2024
-![mantine_finalizado](https://github.com/user-attachments/assets/35020b67-e65c-46b0-a13b-1558401c947f)
 
 ### Historia del Battlebot
 Tras el colapso producido por el sistema social y económico del mundo, Raya, una mantarrya robótica, y su fiel compañero Mantis, un camarón mantis con un potente flipper, se enfrentan a la necesidad de mantener y defender el ecosistema del último lugar habitable que les queda, los océanos. Unidas por el poder de la amistad que han llegado a experimentar al enfrentar esta situación, Raya y Mantis se vuelven Mantine para poder defender la biodiversidad de aquel arrecife que han decidido llamar hogar.
 
+![mantine_finalizado](https://github.com/user-attachments/assets/35020b67-e65c-46b0-a13b-1558401c947f)
 
 ## Integrantes
 - Constanza Torres - Facultad de Ciencias Físicas y Matemáticas
